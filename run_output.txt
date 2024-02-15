@@ -1,0 +1,12 @@
+Go to command prompt
+copy the path of the stremlit app.py (cd path/streamlit app.py)
+create virtual environment and install necessary packages there
+Activate the virtual environment in command prompt
+(task-5_env\Scripts\activate)
+
+In the activated the virtual environment 
+add a command
+streamlit run streamlit app.py
+
+
+Confirm that you have installed streamlit and its dependencies there 
